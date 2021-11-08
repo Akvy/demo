@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/collegiya/static/css/main.310733e0.chunk.css",
-    "main.js": "/collegiya/static/js/main.7f48dcb0.chunk.js",
-    "main.js.map": "/collegiya/static/js/main.7f48dcb0.chunk.js.map",
-    "runtime-main.js": "/collegiya/static/js/runtime-main.7dc3fff1.js",
-    "runtime-main.js.map": "/collegiya/static/js/runtime-main.7dc3fff1.js.map",
-    "static/js/2.0efd65ef.chunk.js": "/collegiya/static/js/2.0efd65ef.chunk.js",
-    "static/js/2.0efd65ef.chunk.js.map": "/collegiya/static/js/2.0efd65ef.chunk.js.map",
-    "static/js/3.56fdb321.chunk.js": "/collegiya/static/js/3.56fdb321.chunk.js",
-    "static/js/3.56fdb321.chunk.js.map": "/collegiya/static/js/3.56fdb321.chunk.js.map",
-    "index.html": "/collegiya/index.html",
-    "static/css/main.310733e0.chunk.css.map": "/collegiya/static/css/main.310733e0.chunk.css.map",
-    "static/js/2.0efd65ef.chunk.js.LICENSE.txt": "/collegiya/static/js/2.0efd65ef.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/collegiya/static/media/OpenSans-SemiBold.d8e49ca1.ttf",
-    "static/media/mapRussia.21796118.jpg": "/collegiya/static/media/mapRussia.21796118.jpg",
-    "static/media/upperGas.3a18770b.jpeg": "/collegiya/static/media/upperGas.3a18770b.jpeg"
+    "main.css": "/Akvy/demo/static/css/main.22a23651.chunk.css",
+    "main.js": "/Akvy/demo/static/js/main.7f48dcb0.chunk.js",
+    "main.js.map": "/Akvy/demo/static/js/main.7f48dcb0.chunk.js.map",
+    "runtime-main.js": "/Akvy/demo/static/js/runtime-main.2cda62e1.js",
+    "runtime-main.js.map": "/Akvy/demo/static/js/runtime-main.2cda62e1.js.map",
+    "static/js/2.0efd65ef.chunk.js": "/Akvy/demo/static/js/2.0efd65ef.chunk.js",
+    "static/js/2.0efd65ef.chunk.js.map": "/Akvy/demo/static/js/2.0efd65ef.chunk.js.map",
+    "static/js/3.56fdb321.chunk.js": "/Akvy/demo/static/js/3.56fdb321.chunk.js",
+    "static/js/3.56fdb321.chunk.js.map": "/Akvy/demo/static/js/3.56fdb321.chunk.js.map",
+    "index.html": "/Akvy/demo/index.html",
+    "static/css/main.22a23651.chunk.css.map": "/Akvy/demo/static/css/main.22a23651.chunk.css.map",
+    "static/js/2.0efd65ef.chunk.js.LICENSE.txt": "/Akvy/demo/static/js/2.0efd65ef.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/Akvy/demo/static/media/OpenSans-SemiBold.d8e49ca1.ttf",
+    "static/media/mapRussia.21796118.jpg": "/Akvy/demo/static/media/mapRussia.21796118.jpg",
+    "static/media/upperGas.3a18770b.jpeg": "/Akvy/demo/static/media/upperGas.3a18770b.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dc3fff1.js",
+    "static/js/runtime-main.2cda62e1.js",
     "static/js/2.0efd65ef.chunk.js",
-    "static/css/main.310733e0.chunk.css",
+    "static/css/main.22a23651.chunk.css",
     "static/js/main.7f48dcb0.chunk.js"
   ]
 }
