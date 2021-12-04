@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/demo/static/css/main.f495d1bf.chunk.css",
-    "main.js": "/demo/static/js/main.6e4eb7c5.chunk.js",
-    "main.js.map": "/demo/static/js/main.6e4eb7c5.chunk.js.map",
+    "main.js": "/demo/static/js/main.c6f0c9c0.chunk.js",
+    "main.js.map": "/demo/static/js/main.c6f0c9c0.chunk.js.map",
     "runtime-main.js": "/demo/static/js/runtime-main.5b7fedb1.js",
     "runtime-main.js.map": "/demo/static/js/runtime-main.5b7fedb1.js.map",
     "static/js/2.c2e686b3.chunk.js": "/demo/static/js/2.c2e686b3.chunk.js",
@@ -12,6 +12,7 @@
     "index.html": "/demo/index.html",
     "static/css/main.f495d1bf.chunk.css.map": "/demo/static/css/main.f495d1bf.chunk.css.map",
     "static/js/2.c2e686b3.chunk.js.LICENSE.txt": "/demo/static/js/2.c2e686b3.chunk.js.LICENSE.txt",
+    "static/media/GasPages2020.ba1c2310.jpg": "/demo/static/media/GasPages2020.ba1c2310.jpg",
     "static/media/index.scss": "/demo/static/media/OpenSans-SemiBold.d8e49ca1.ttf",
     "static/media/mapAssets.d2c3d1ce.svg": "/demo/static/media/mapAssets.d2c3d1ce.svg",
     "static/media/mapPercentage.376047d5.svg": "/demo/static/media/mapPercentage.376047d5.svg",
@@ -45,6 +46,6 @@
     "static/js/runtime-main.5b7fedb1.js",
     "static/js/2.c2e686b3.chunk.js",
     "static/css/main.f495d1bf.chunk.css",
-    "static/js/main.6e4eb7c5.chunk.js"
+    "static/js/main.c6f0c9c0.chunk.js"
   ]
 }
