@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/demo/static/css/main.4c4f5ace.chunk.css",
-    "main.js": "/demo/static/js/main.6be16484.chunk.js",
-    "main.js.map": "/demo/static/js/main.6be16484.chunk.js.map",
+    "main.css": "/demo/static/css/main.4adc6cf6.chunk.css",
+    "main.js": "/demo/static/js/main.9bb0e8fd.chunk.js",
+    "main.js.map": "/demo/static/js/main.9bb0e8fd.chunk.js.map",
     "runtime-main.js": "/demo/static/js/runtime-main.ae846ab2.js",
     "runtime-main.js.map": "/demo/static/js/runtime-main.ae846ab2.js.map",
     "static/js/2.2232f4dd.chunk.js": "/demo/static/js/2.2232f4dd.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.0ff7a5ec.chunk.js": "/demo/static/js/3.0ff7a5ec.chunk.js",
     "static/js/3.0ff7a5ec.chunk.js.map": "/demo/static/js/3.0ff7a5ec.chunk.js.map",
     "index.html": "/demo/index.html",
-    "static/css/main.4c4f5ace.chunk.css.map": "/demo/static/css/main.4c4f5ace.chunk.css.map",
+    "static/css/main.4adc6cf6.chunk.css.map": "/demo/static/css/main.4adc6cf6.chunk.css.map",
     "static/js/2.2232f4dd.chunk.js.LICENSE.txt": "/demo/static/js/2.2232f4dd.chunk.js.LICENSE.txt",
     "static/media/GasPages2020.ba1c2310.jpg": "/demo/static/media/GasPages2020.ba1c2310.jpg",
     "static/media/index.scss": "/demo/static/media/OpenSans-SemiBold.d8e49ca1.ttf",
@@ -45,7 +45,7 @@
   "entrypoints": [
     "static/js/runtime-main.ae846ab2.js",
     "static/js/2.2232f4dd.chunk.js",
-    "static/css/main.4c4f5ace.chunk.css",
-    "static/js/main.6be16484.chunk.js"
+    "static/css/main.4adc6cf6.chunk.css",
+    "static/js/main.9bb0e8fd.chunk.js"
   ]
 }
