@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/demo/static/css/main.c19c32ec.chunk.css",
-    "main.js": "/demo/static/js/main.86ea8b7b.chunk.js",
-    "main.js.map": "/demo/static/js/main.86ea8b7b.chunk.js.map",
+    "main.css": "/demo/static/css/main.892378ca.chunk.css",
+    "main.js": "/demo/static/js/main.6015e456.chunk.js",
+    "main.js.map": "/demo/static/js/main.6015e456.chunk.js.map",
     "runtime-main.js": "/demo/static/js/runtime-main.08984179.js",
     "runtime-main.js.map": "/demo/static/js/runtime-main.08984179.js.map",
     "static/js/2.b0f698b7.chunk.js": "/demo/static/js/2.b0f698b7.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.c7750318.chunk.js": "/demo/static/js/3.c7750318.chunk.js",
     "static/js/3.c7750318.chunk.js.map": "/demo/static/js/3.c7750318.chunk.js.map",
     "index.html": "/demo/index.html",
-    "static/css/main.c19c32ec.chunk.css.map": "/demo/static/css/main.c19c32ec.chunk.css.map",
+    "static/css/main.892378ca.chunk.css.map": "/demo/static/css/main.892378ca.chunk.css.map",
     "static/js/2.b0f698b7.chunk.js.LICENSE.txt": "/demo/static/js/2.b0f698b7.chunk.js.LICENSE.txt",
     "static/media/GasPages2020.ba1c2310.jpg": "/demo/static/media/GasPages2020.ba1c2310.jpg",
     "static/media/OilExportMap.f8208a47.png": "/demo/static/media/OilExportMap.f8208a47.png",
@@ -57,7 +57,7 @@
   "entrypoints": [
     "static/js/runtime-main.08984179.js",
     "static/js/2.b0f698b7.chunk.js",
-    "static/css/main.c19c32ec.chunk.css",
-    "static/js/main.86ea8b7b.chunk.js"
+    "static/css/main.892378ca.chunk.css",
+    "static/js/main.6015e456.chunk.js"
   ]
 }
